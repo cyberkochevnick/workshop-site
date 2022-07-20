@@ -1,4 +1,4 @@
-# Shkillbox, оптимизация графики, Squoosh и элемент picture
+# ShkillbOox, оптимизация графики, Squoosh и элемент picture
 
 - [Живое демо](https://pepelsbey.github.io/playground/10/)
 
